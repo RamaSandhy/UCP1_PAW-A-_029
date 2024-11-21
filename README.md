@@ -1,8 +1,10 @@
 # UCP1_PAW-A-_029
 gambar 1 (index.js)
-![Screenshot (64)](https://github.com/user-attachments/assets/7d22e68f-e110-4bef-a4fc-b1508289a66b)
+![Screenshot (65)](https://github.com/user-attachments/assets/2656e2d9-717d-4e59-9dbe-13c3b5609321)
+
 gambar 2 (package.json)
-![Screenshot (65)](https://github.com/user-attachments/assets/006620a4-f58c-4db7-b4c0-5515c9eb6d50)
+![Screenshot (66)](https://github.com/user-attachments/assets/be08d844-a500-4a87-ac4e-715e6f9d46b1)
+
 gambar 3 (hasil
-![Screenshot (66)](https://github.com/user-attachments/assets/3930c3ff-33ad-43e6-bd58-2ea62b3ffa25)
+![Screenshot (64)](https://github.com/user-attachments/assets/00e53f9b-a204-43ab-ae0e-5b21ed66ed11)
 
